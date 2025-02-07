@@ -20,7 +20,7 @@
 
 ![Alt Text](Picture2.JPG)
 
- ### <font color="green">  *Project 3 - Development of a Convolutional Neural Network for Defect Detection.* </span>
+### <font color="#0492c2"> Project 3 - Development of a Convolutional Neural Network for Defect Detection. </font>
  - <span style="font-size: 14px;"> Developed a convolutional neural network (CNN) to automate defect detection and quantification in material samples. </span>
 - <span style="font-size: 14px;"> Gathered experimental data by capturing images with cameras during testing. </span>
 - <span style="font-size: 14px;"> Preprocessed large image datasets using Pillow Python library to enhance image quality and consistency, including resizing, normalization, and augmentation techniques, ensuring a robust dataset for training the defect detection model. </span>
@@ -31,7 +31,7 @@
   <img src="Picture3.JPG" alt="Centered Image">
 </p>
 
- ### <font color="green">  *Project 4 - Development of a AI-Driven Tax Filing with OCR and RAG.* </span>
+### <font color="#0492c2"> Project 4 - Development of a AI-Driven Tax Filing with OCR and RAG. </font>
  - <span style="font-size: 14px;"> Develop an AI-powered tax filing system for small businesses on Microsoft Azure AI. </span>
 - <span style="font-size: 14px;"> GImplement a hybrid LLM solution with NLP and RAG to extract insights from structured and unstructured CRA documents. </span>
 - <span style="font-size: 14px;"> Integrate OCR for receipt extraction, automate ledger and tax filing, and apply NLP and RAG for document processing. </span>
