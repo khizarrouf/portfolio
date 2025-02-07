@@ -49,6 +49,17 @@
   <img src="Picture2.JPG" alt="Centered Image">
 </p>
 
+<p align="center">
+  <img src="Picture18.JPG" alt="Centered Image">
+</p>
+
+<p align="center">
+  <img src="Picture20.JPG" alt="Centered Image">
+</p>
+
+<p align="center">
+  <img src="Picture19.JPG" alt="Centered Image">
+</p>
 
 ### <font color="#0492c2"> Project 3 - Development of a Convolutional Neural Network for Defect Detection. </font>
 - <span style="font-size: 14px;"> Developed a convolutional neural network (CNN) to automate defect detection and quantification in material samples. </span>
