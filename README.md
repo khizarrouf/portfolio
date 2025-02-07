@@ -9,9 +9,16 @@
 - <span style="font-size: 14px;"> Deployed the model locally via FastAPI for inference. </span>
 
 <p align="center">
-  <img src="Picture1.png" alt="Centered Image">
+  <img src="Picture11.png" alt="Centered Image">
 </p>
 
+<p align="center">
+  <img src="Picture12.png" alt="Centered Image">
+</p>
+
+<p align="center">
+  <img src="Picture13.png" alt="Centered Image">
+</p>
 
 ### <font color="#0492c2"> Project 2 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties. </font>
 - <span style="font-size: 14px;"> Developed a supervised regression model to predict the effective properties of a material based on its microstructure and constituent properties. </span>
