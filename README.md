@@ -65,15 +65,15 @@
 - <span style="font-size: 14px;"> Trained a CNN model using the U-Net architecture, optimizing it for material defect detection. </span>
 
 <p align="center">
-  <img src="Picture3.JPG" alt="Centered Image">
-</p>
-
-<p align="center">
   <img src="Picture21.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
   <img src="Picture22.JPG" alt="Centered Image">
+</p>
+
+<p align="center">
+  <img src="Picture3.JPG" alt="Centered Image">
 </p>
 
 ### <font color="#0492c2"> Project 4 - Development of a AI-Driven Tax Filing with OCR and RAG. </font>
