@@ -9,7 +9,7 @@
 - <span style="font-size: 14px;"> Deployed the model locally via FastAPI for inference. </span>
 
 <p align="center">
-  <img src="Picture1.PNG" alt="Centered Image">
+  <img src="Picture1.png" alt="Centered Image">
 </p>
 
 
