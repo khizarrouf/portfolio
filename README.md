@@ -68,6 +68,13 @@
   <img src="Picture3.JPG" alt="Centered Image">
 </p>
 
+<p align="center">
+  <img src="Picture21.JPG" alt="Centered Image">
+</p>
+
+<p align="center">
+  <img src="Picture22.JPG" alt="Centered Image">
+</p>
 
 ### <font color="#0492c2"> Project 4 - Development of a AI-Driven Tax Filing with OCR and RAG. </font>
 - <span style="font-size: 14px;"> Develop an AI-powered tax filing system for small businesses on Microsoft Azure AI. </span>
