@@ -10,31 +10,31 @@
 - <span style="font-size: 14px;"> Deployed the model locally via FastAPI for inference. </span>
 
 <p align="center">
-  <img src="Picture11.png" alt="Centered Image">
+  <img src="assets/images/Picture11.png" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Picture12.png" alt="Centered Image">
+  <img src="assets/images/Picture12.png" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Picture13.png" alt="Centered Image">
+  <img src="assets/images/Picture13.png" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Picture15.png" alt="Centered Image">
+  <img src="assets/images/Picture15.png" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Picture16.png" alt="Centered Image">
+  <img src="assets/images/Picture16.png" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Picture17.png" alt="Centered Image">
+  <img src="assets/images/Picture17.png" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Picture14.png" alt="Centered Image">
+  <img src="assets/images/Picture14.png" alt="Centered Image">
 </p>
 
 
@@ -47,15 +47,15 @@
 - <span style="font-size: 14px;"> The trained model significantly reduced the inference time compared to the conventional modeling approach, while maintaining the same level of accuracy. </span>
 
 <p align="center">
-  <img src="Picture2.JPG" alt="Centered Image">
+  <img src="assets/images/Picture2.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Figure 20.JPG" alt="Centered Image">
+  <img src="assets/images/Figure 20.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Figure 19.JPG" alt="Centered Image">
+  <img src="assets/images/Figure 19.JPG" alt="Centered Image">
 </p>
 
 ### <font color="#0492c2"> Project 3 - Development of a Convolutional Neural Network for Defect Detection. </font>
@@ -66,15 +66,15 @@
 - <span style="font-size: 14px;"> Trained a CNN model using the U-Net architecture, optimizing it for material defect detection. </span>
 
 <p align="center">
-  <img src="Figure21.JPG" alt="Centered Image">
+  <img src="assets/images/Figure21.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Figure22.JPG" alt="Centered Image">
+  <img src="assets/images/Figure22.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Picture3.JPG" alt="Centered Image">
+  <img src="assets/images/Picture3.JPG" alt="Centered Image">
 </p>
 
 ### <font color="#0492c2"> Project 4 - Development of a AI-Driven Tax Filing with OCR and RAG. </font>
