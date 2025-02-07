@@ -50,10 +50,6 @@
 </p>
 
 <p align="center">
-  <img src="Figure18.JPG" alt="Centered Image">
-</p>
-
-<p align="center">
   <img src="Figure 20.JPG" alt="Centered Image">
 </p>
 
