@@ -11,7 +11,7 @@
 ![Alt Text](Picture1.png)
 
 
-### <font color="#0492c2">*Project 2 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties.*</font>
+### <font color="#0492c2"> *Project 2 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties.* </font>
 - <span style="font-size: 14px;"> Developed a supervised regression model to predict the effective properties of a material based on its microstructure and constituent properties. </span>
 - <span style="font-size: 14px;"> Automated dataset generation in simulation software by developing and implementing Python scripts. </span>
 - <span style="font-size: 14px;"> Identified and removed outliers using the standard deviation method and normalized the data to scale features for better model performance.  </span>
