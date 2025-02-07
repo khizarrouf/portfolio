@@ -69,11 +69,11 @@
 </p>
 
 <p align="center">
-  <img src="Picture 21.JPG" alt="Centered Image">
+  <img src="Picture21.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Picture 22.JPG" alt="Centered Image">
+  <img src="Picture22.JPG" alt="Centered Image">
 </p>
 
 ### <font color="#0492c2"> Project 4 - Development of a AI-Driven Tax Filing with OCR and RAG. </font>
