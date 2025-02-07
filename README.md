@@ -50,15 +50,15 @@
 </p>
 
 <p align="center">
-  <img src="Picture18.JPG" alt="Centered Image">
+  <img src="Figure18.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Picture20.JPG" alt="Centered Image">
+  <img src="Figure20.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Picture19.JPG" alt="Centered Image">
+  <img src="Figure19.JPG" alt="Centered Image">
 </p>
 
 ### <font color="#0492c2"> Project 3 - Development of a Convolutional Neural Network for Defect Detection. </font>
