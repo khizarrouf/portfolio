@@ -1,7 +1,7 @@
 # Khizar Portfolio
 
 ### <font color="#0492c2"> Project 1 - Predict Mortgage Defaults Using Freddie Mac Datasets. </font>
-[You can check details and code here](https://github.com/khizarrouf/End_to_End_Mortgage_Default_Project)
+[Details and code available here](https://github.com/khizarrouf/End_to_End_Mortgage_Default_Project)
 - <span style="font-size: 14px;"> Developed a classification model to predict whether a home loan will default or not. </span> 
 - <span style="font-size: 14px;"> Gathered large data sets from the Freddie Mac website and visualized in Tableau. </span>
 - <span style="font-size: 14px;"> Preprocessed the data in Azure ML using Python libraries. Performed outlier detection with a scalable unsupervised outlier detection framework. The data was stratified to ensure representative coverage across all states. </span>
