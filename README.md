@@ -20,7 +20,6 @@
 - <span style="font-size: 14px;"> Trained and validated Artificial Neural Network (ANN) and XGBoost models to predict the effective properties of the material. </span>
 - <span style="font-size: 14px;"> The trained model significantly reduced the inference time compared to the conventional modeling approach, while maintaining the same level of accuracy. </span>
 
-
 <p align="center">
   <img src="Picture2.JPG" alt="Centered Image">
 </p>
@@ -43,7 +42,6 @@
 - <span style="font-size: 14px;"> Implement a hybrid LLM solution with NLP and RAG to extract insights from structured and unstructured CRA documents. </span>
 - <span style="font-size: 14px;"> Integrate OCR for receipt extraction, automate ledger and tax filing, and apply NLP and RAG for document processing. </span>
 - <span style="font-size: 14px;"> Measure system performance, accuracy, and efficiency in automating tax filing tasks. </span>
-- <span style="font-size: 14px;"> Trained a CNN model using the U-Net architecture, optimizing it for material defect detection. </span>
 
 <p align="center">
   <img src="Picture3.JPG" alt="Centered Image">
