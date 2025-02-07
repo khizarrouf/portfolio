@@ -19,11 +19,6 @@
 
 
 <p align="center">
-  <img src="Picture13.png" alt="Centered Image">
-</p>
-
-
-<p align="center">
   <img src="Picture15.png" alt="Centered Image">
 </p>
 
@@ -40,6 +35,11 @@
 
 <p align="center">
   <img src="Picture14.png" alt="Centered Image">
+</p>
+
+
+<p align="center">
+  <img src="Picture13.png" alt="Centered Image">
 </p>
 
 
