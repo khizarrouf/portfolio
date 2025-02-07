@@ -8,7 +8,9 @@
 - <span style="font-size: 14px;"> Performed SHAP to identify important features and their contributions. </span>
 - <span style="font-size: 14px;"> Deployed the model locally via FastAPI for inference. </span>
 
-![Alt Text](Picture1.png)
+<p align="center">
+  <img src="Picture1.PNG" alt="Centered Image">
+</p>
 
 
 ### <font color="#0492c2"> Project 2 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties. </font>
@@ -18,7 +20,6 @@
 - <span style="font-size: 14px;"> Trained and validated Artificial Neural Network (ANN) and XGBoost models to predict the effective properties of the material. </span>
 - <span style="font-size: 14px;"> The trained model significantly reduced the inference time compared to the conventional modeling approach, while maintaining the same level of accuracy. </span>
 
-![Alt Text](Picture2.JPG)
 
 <p align="center">
   <img src="Picture2.JPG" alt="Centered Image">
