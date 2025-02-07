@@ -80,7 +80,3 @@
 - <span style="font-size: 14px;"> Implement a hybrid LLM solution with NLP and RAG to extract insights from structured and unstructured CRA documents. </span>
 - <span style="font-size: 14px;"> Integrate OCR for receipt extraction, automate ledger and tax filing, and apply NLP and RAG for document processing. </span>
 - <span style="font-size: 14px;"> Measure system performance, accuracy, and efficiency in automating tax filing tasks. </span>
-
-<p align="center">
-  <img src="Picture3.JPG" alt="Centered Image">
-</p>
