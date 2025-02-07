@@ -32,6 +32,10 @@
   <img src="Picture14.png" alt="Centered Image">
 </p>
 
+<p align="center">
+  <img src="Picture17.png" alt="Centered Image">
+</p>
+
 ### <font color="#0492c2"> Project 2 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties. </font>
 - <span style="font-size: 14px;"> Developed a supervised regression model to predict the effective properties of a material based on its microstructure and constituent properties. </span>
 - <span style="font-size: 14px;"> Automated dataset generation in simulation software by developing and implementing Python scripts. </span>
