@@ -17,7 +17,19 @@
 </p>
 
 <p align="center">
+  <img src="Picture16.png" alt="Centered Image">
+</p>
+
+<p align="center">
+  <img src="Picture15.png" alt="Centered Image">
+</p>
+
+<p align="center">
   <img src="Picture13.png" alt="Centered Image">
+</p>
+
+<p align="center">
+  <img src="Picture14.png" alt="Centered Image">
 </p>
 
 ### <font color="#0492c2"> Project 2 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties. </font>
