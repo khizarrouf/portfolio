@@ -65,11 +65,11 @@
 - <span style="font-size: 14px;"> Trained a CNN model using the U-Net architecture, optimizing it for material defect detection. </span>
 
 <p align="center">
-  <img src="Picture21.JPG" alt="Centered Image">
+  <img src="Figure21.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="Picture22.JPG" alt="Centered Image">
+  <img src="Figure22.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
