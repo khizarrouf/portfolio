@@ -1,4 +1,6 @@
 title: Khizar Rouf
 description: Research Fellow
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
 
