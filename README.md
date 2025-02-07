@@ -16,7 +16,7 @@
 <p align="center">
   <img src="Picture12.png" alt="Centered Image">
 </p>
-<br><br>
+
 <p align="center">
   <img src="Picture13.png" alt="Centered Image>
 </p>
