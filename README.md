@@ -1,4 +1,21 @@
-# Khizar Portfolio
+# Research Fellow
+## Technical Skills: Python, SQL, Azure, Machine Learning, Deep Learning
+
+## EDUCATION
+### Ph.D. Mechanical and Mechatronics Engineering					         09/2018 - 09/2023
+### University of Waterloo, Waterloo, ON, Canada	
+
+## M.S. Aeronautics & Astronautics Engineering					         08/2015 - 12/2017	
+### Purdue University, West Lafayette, IN, USA
+### Relevant coursework:  Statistical Methods, Applied Regression Analysis, Design of Experiments, Computational Methods, Linear Algebra Applications, Advanced Mathematics for Engineers and Physicists I, Vector Calculus	
+		                                                
+## B.Sc. Textile Engineering								         01/2004 - 01/2008
+### National Textile University, Faisalabad, Pakistan
+
+## CERTIFICATIONS
+## Coursera Deep Learning Specialization (Courses: Neural Networks & Deep Learning, Structuring Machine Learning Projects, Convolutional Neural Networks, Improving Deep Neural Networks, Sequence Models)
+## IBM Data Science Fundamentals: (Course: What is Data Science?)
+## Microsoft Azure Data Scientist Associate Certification (Expected Feb 2025)
 
 ### <font color="#0492c2"> Project 1 - Predict Mortgage Defaults Using Freddie Mac Datasets. </font>
 [Details and code available here](https://github.com/khizarrouf/End_to_End_Mortgage_Default_Project)
