@@ -20,8 +20,9 @@
 
 ![Alt Text](Picture2.JPG)
 
+
 ### <font color="#0492c2"> Project 3 - Development of a Convolutional Neural Network for Defect Detection. </font>
- - <span style="font-size: 14px;"> Developed a convolutional neural network (CNN) to automate defect detection and quantification in material samples. </span>
+- <span style="font-size: 14px;"> Developed a convolutional neural network (CNN) to automate defect detection and quantification in material samples. </span>
 - <span style="font-size: 14px;"> Gathered experimental data by capturing images with cameras during testing. </span>
 - <span style="font-size: 14px;"> Preprocessed large image datasets using Pillow Python library to enhance image quality and consistency, including resizing, normalization, and augmentation techniques, ensuring a robust dataset for training the defect detection model. </span>
 - <span style="font-size: 14px;"> Utilized CVAT AI to annotate images with high accuracy, applying bounding boxes to create a labeled dataset, enabling the convolutional neural network (CNN) to effectively learn defect patterns. </span>
@@ -31,9 +32,10 @@
   <img src="Picture3.JPG" alt="Centered Image">
 </p>
 
+
 ### <font color="#0492c2"> Project 4 - Development of a AI-Driven Tax Filing with OCR and RAG. </font>
- - <span style="font-size: 14px;"> Develop an AI-powered tax filing system for small businesses on Microsoft Azure AI. </span>
-- <span style="font-size: 14px;"> GImplement a hybrid LLM solution with NLP and RAG to extract insights from structured and unstructured CRA documents. </span>
+- <span style="font-size: 14px;"> Develop an AI-powered tax filing system for small businesses on Microsoft Azure AI. </span>
+- <span style="font-size: 14px;"> Implement a hybrid LLM solution with NLP and RAG to extract insights from structured and unstructured CRA documents. </span>
 - <span style="font-size: 14px;"> Integrate OCR for receipt extraction, automate ledger and tax filing, and apply NLP and RAG for document processing. </span>
 - <span style="font-size: 14px;"> Measure system performance, accuracy, and efficiency in automating tax filing tasks. </span>
 - <span style="font-size: 14px;"> Trained a CNN model using the U-Net architecture, optimizing it for material defect detection. </span>
