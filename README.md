@@ -1,4 +1,3 @@
-# Khizar.github.io
 
 ### <font color="#0492c2"> Project 1 - Predict Mortgage Defaults Using Freddie Mac Datasets. </font>
 - <span style="font-size: 14px;"> Developed a classification model to predict whether a home loan will default or not. </span> 
