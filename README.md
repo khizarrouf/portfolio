@@ -3,7 +3,7 @@
 ### Technical Skills
 Python, SQL, Azure, Machine Learning, Deep Learning
 
-### Education
+### Education  
 **Ph.D. Mechanical and Mechatronics Engineering**  
 University of Waterloo, Waterloo, ON, Canada  
 <span style="font-size: 14px;"> 09/2018 - 09/2023 </span>  
@@ -15,7 +15,7 @@ Purdue University, West Lafayette, IN, USA
 National Textile University, Faisalabad, Pakistan 
 <span style="font-size: 14px;"> 01/2004 - 01/2008 </span>  
 
-### Certifications 
+### Certifications   
 - <span style="font-size: 14px;"> **Coursera Deep Learning Specialization**  
   Courses: Neural Networks & Deep Learning, Structuring Machine Learning Projects, Convolutional Neural Networks, Improving Deep Neural Networks, Sequence Models </span>  
 - <span style="font-size: 14px;"> **Microsoft Azure Data Scientist Associate Certification**
