@@ -10,7 +10,7 @@ University of Waterloo, Waterloo, ON, Canada
 **M.S. Aeronautics & Astronautics Engineering**  
 Purdue University, West Lafayette, IN, USA
 <span style="font-size: 14px;"> 08/2015 - 12/2017 </span>  
-<span style="font-size: 14px;"> **Relevant coursework:** Statistical Methods, Applied Regression Analysis, Design of Experiments, Computational Methods, Linear Algebra Applications, Advanced Mathematics for Engineers and Physicists I, Vector Calculus </span>
+<span style="font-size: 14px;"> **Relevant coursework:** Statistical Methods, Applied Regression Analysis, Design of Experiments, Computational Methods, Linear Algebra Applications, Advanced Mathematics for Engineers and Physicists I, Vector Calculus </span>  
 **B.Sc. Textile Engineering**  
 National Textile University, Faisalabad, Pakistan 
 <span style="font-size: 14px;"> 01/2004 - 01/2008 </span>  
