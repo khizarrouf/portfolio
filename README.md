@@ -6,18 +6,16 @@ Python, SQL, Azure, Machine Learning, Deep Learning
 ### Education  
 **Ph.D. Mechanical and Mechatronics Engineering** (September, 2023)   
 University of Waterloo, Waterloo, ON, Canada
-
 **M.S. Aeronautics & Astronautics Engineering** (December, 2017)  
 Purdue University, West Lafayette, IN, USA   
 <span style="font-size: 14px;"> **Relevant coursework:** Statistical Methods, Applied Regression Analysis, Design of Experiments, Computational Methods, Linear Algebra Applications, Advanced Mathematics for Engineers and Physicists I, Vector Calculus </span>  
-
 **B.Sc. Textile Engineering** (January, 2008)  
 National Textile University, Faisalabad, Pakistan  
 
 ### Certifications   
 - <span style="font-size: 14px;"> **Coursera Deep Learning Specialization**  
 <span style="font-size: 14px;"> **Courses**: Neural Networks & Deep Learning, Structuring Machine Learning Projects, Convolutional Neural Networks, Improving Deep Neural Networks, Sequence Models </span>  
-- <span style="font-size: 14px;"> **Microsoft Azure Data Scientist Associate Certification**
+- <span style="font-size: 14px;"> **Microsoft Certified: Azure AI Fundamentals**
 
 ### Project 1 - Development of a AI-Driven Tax Filing with OCR and RAG.
 - <span style="font-size: 14px;"> Develop an AI-powered tax filing system for small businesses on Microsoft Azure AI. </span>
