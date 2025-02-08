@@ -4,13 +4,10 @@
 Python, SQL, Azure, Machine Learning, Deep Learning
 
 ### Education  
-**Ph.D. Mechanical and Mechatronics Engineering** (September, 2023)     
-University of Waterloo, Waterloo, ON, Canada  
-**M.S. Aeronautics & Astronautics Engineering** (December, 2017)    
-Purdue University, West Lafayette, IN, USA     
+**Ph.D. Mechanical and Mechatronics Engineering** - University of Waterloo, Waterloo, ON, Canada (September, 2023)      
+**M.S. Aeronautics & Astronautics Engineering** - Purdue University, West Lafayette, IN, USA (December, 2017)        
 <span style="font-size: 14px;"> **Relevant coursework:** Statistical Methods, Applied Regression Analysis, Design of Experiments, Computational Methods, Linear Algebra Applications, Advanced Mathematics for Engineers and Physicists I, Vector Calculus </span>  
-**B.Sc. Textile Engineering** (January, 2008)  
-National Textile University, Faisalabad, Pakistan    
+**B.Sc. Textile Engineering** - National Textile University, Faisalabad, Pakistan (January, 2008)     
 
 ### Certifications   
 - <span style="font-size: 14px;"> **Coursera Deep Learning Specialization**  
