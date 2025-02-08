@@ -1,6 +1,6 @@
 # Research Fellow 
 
-### Technical Skills
+### Technical Skills <br>
 Python, SQL, Azure, Machine Learning, Deep Learning
 
 ### Education  
