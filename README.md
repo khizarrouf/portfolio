@@ -1,16 +1,16 @@
 # Research Fellow 
 
 ### Technical Skills
-**Python, SQL, Azure, Machine Learning, Deep Learning**  
+Python, SQL, Azure, Machine Learning, Deep Learning
 
-### <font color="#0492c2"> EDUCATION </font>  
+### EDUCATION
 **Ph.D. Mechanical and Mechatronics Engineering**  
 University of Waterloo, Waterloo, ON, Canada
 <span style="font-size: 14px;"> 09/2018 - 09/2023 </span>  
 **M.S. Aeronautics & Astronautics Engineering**  
 Purdue University, West Lafayette, IN, USA
 <span style="font-size: 14px;"> 08/2015 - 12/2017 </span>  
-<span style="font-size: 14px;"> **Relevant coursework:** Statistical Methods, Applied Regression Analysis, Design of Experiments, Computational Methods, Linear Algebra Applications, Advanced Mathematics for Engineers and Physicists I, Vector Calculus </span>  
+<span style="font-size: 14px;"> **Relevant coursework:** Statistical Methods, Applied Regression Analysis, Design of Experiments, Computational Methods, Linear Algebra Applications, Advanced Mathematics for Engineers and Physicists I, Vector Calculus </span>
 **B.Sc. Textile Engineering**  
 National Textile University, Faisalabad, Pakistan 
 <span style="font-size: 14px;"> 01/2004 - 01/2008 </span>  
@@ -56,7 +56,6 @@ National Textile University, Faisalabad, Pakistan
 <p align="center">
   <img src="assets/images/Picture14.png" alt="Centered Image">
 </p>
-
 
 
 ### Project 2 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties.
