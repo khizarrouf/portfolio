@@ -1,29 +1,26 @@
-### <font color="#0492c2"> Research Fellow </font>  
+# Research Fellow 
 
-### <font color="#0492c2"> Technical Skills </font>  
+### Technical Skills
 **Python, SQL, Azure, Machine Learning, Deep Learning**  
 
 ### <font color="#0492c2"> EDUCATION </font>  
-
 **Ph.D. Mechanical and Mechatronics Engineering**  
-**University of Waterloo, Waterloo, ON, Canada**  
+University of Waterloo, Waterloo, ON, Canada
 <span style="font-size: 14px;"> 09/2018 - 09/2023 </span>  
-
 **M.S. Aeronautics & Astronautics Engineering**  
-**Purdue University, West Lafayette, IN, USA**  
+Purdue University, West Lafayette, IN, USA
 <span style="font-size: 14px;"> 08/2015 - 12/2017 </span>  
 <span style="font-size: 14px;"> **Relevant coursework:** Statistical Methods, Applied Regression Analysis, Design of Experiments, Computational Methods, Linear Algebra Applications, Advanced Mathematics for Engineers and Physicists I, Vector Calculus </span>  
-
 **B.Sc. Textile Engineering**  
-**National Textile University, Faisalabad, Pakistan**  
+National Textile University, Faisalabad, Pakistan 
 <span style="font-size: 14px;"> 01/2004 - 01/2008 </span>  
 
-### <font color="#0492c2"> CERTIFICATIONS </font>  
+### CERTIFICATIONS 
 - <span style="font-size: 14px;"> **Coursera Deep Learning Specialization**  
   Courses: Neural Networks & Deep Learning, Structuring Machine Learning Projects, Convolutional Neural Networks, Improving Deep Neural Networks, Sequence Models </span>  
 - <span style="font-size: 14px;"> **Microsoft Azure Data Scientist Associate Certification**
 
-### <font color="#0492c2"> Project 1 - Predict Mortgage Defaults Using Freddie Mac Datasets. </font>
+### Project 1 - Predict Mortgage Defaults Using Freddie Mac Datasets.
 [Details and code available here](https://github.com/khizarrouf/End_to_End_Mortgage_Default_Project)
 - <span style="font-size: 14px;"> Developed a classification model to predict whether a home loan will default or not. </span> 
 - <span style="font-size: 14px;"> Gathered large data sets from the Freddie Mac website and visualized in Tableau. </span>
@@ -62,7 +59,7 @@
 
 
 
-### <font color="#0492c2"> Project 2 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties. </font>
+### Project 2 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties.
 - <span style="font-size: 14px;"> Developed a supervised regression model to predict the effective properties of a material based on its microstructure and constituent properties. </span>
 - <span style="font-size: 14px;"> Automated dataset generation in simulation software by developing and implementing Python scripts. </span>
 - <span style="font-size: 14px;"> Identified and removed outliers using the standard deviation method and normalized the data to scale features for better model performance.  </span>
@@ -81,7 +78,7 @@
   <img src="assets/images/Figure 19.JPG" alt="Centered Image">
 </p>
 
-### <font color="#0492c2"> Project 3 - Development of a Convolutional Neural Network for Defect Detection. </font>
+### Project 3 - Development of a Convolutional Neural Network for Defect Detection.
 - <span style="font-size: 14px;"> Developed a convolutional neural network (CNN) to automate defect detection and quantification in material samples. </span>
 - <span style="font-size: 14px;"> Gathered experimental data by capturing images with cameras during testing. </span>
 - <span style="font-size: 14px;"> Preprocessed large image datasets using Pillow Python library to enhance image quality and consistency, including resizing, normalization, and augmentation techniques, ensuring a robust dataset for training the defect detection model. </span>
