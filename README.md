@@ -17,13 +17,7 @@ Python, SQL, Azure, Machine Learning, Deep Learning
 <span style="font-size: 14px;"> **Courses**: Neural Networks & Deep Learning, Structuring Machine Learning Projects, Convolutional Neural Networks, Improving Deep Neural Networks, Sequence Models </span>  
 - <span style="font-size: 14px;"> **Microsoft Certified: Azure AI Fundamentals**
 
-### Project 1 - Development of a AI-Driven Tax Filing with OCR and RAG.
-- <span style="font-size: 14px;"> Develop an AI-powered tax filing system for small businesses on Microsoft Azure AI. </span>
-- <span style="font-size: 14px;"> Implement a hybrid LLM solution with NLP and RAG to extract insights from structured and unstructured CRA documents. </span>
-- <span style="font-size: 14px;"> Integrate OCR for receipt extraction, automate ledger and tax filing, and apply NLP and RAG for document processing. </span>
-- <span style="font-size: 14px;"> Measure system performance, accuracy, and efficiency in automating tax filing tasks. </span>
-
-### Project 2 - Predict Mortgage Defaults Using Freddie Mac Datasets.
+### Project 1 - Predict Mortgage Defaults Using Freddie Mac Datasets.
 [Details and code available here](https://github.com/khizarrouf/End_to_End_Mortgage_Default_Project)
 - <span style="font-size: 14px;"> Developed a classification model to predict whether a home loan will default or not. </span> 
 - <span style="font-size: 14px;"> Gathered large data sets from the Freddie Mac website and visualized in Tableau. </span>
@@ -57,7 +51,7 @@ Python, SQL, Azure, Machine Learning, Deep Learning
 </p>
 
 
-### Project 3 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties.
+### Project 2 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties.
 - <span style="font-size: 14px;"> Developed a supervised regression model to predict the effective properties of a material based on its microstructure and constituent properties. </span>
 - <span style="font-size: 14px;"> Automated dataset generation in simulation software by developing and implementing Python scripts. </span>
 - <span style="font-size: 14px;"> Identified and removed outliers using the standard deviation method and normalized the data to scale features for better model performance.  </span>
@@ -76,7 +70,7 @@ Python, SQL, Azure, Machine Learning, Deep Learning
   <img src="assets/images/Figure 19.JPG" alt="Centered Image">
 </p>
 
-### Project 4 - Development of a Convolutional Neural Network for Defect Detection.
+### Project 3 - Development of a Convolutional Neural Network for Defect Detection.
 - <span style="font-size: 14px;"> Developed a convolutional neural network (CNN) to automate defect detection and quantification in material samples. </span>
 - <span style="font-size: 14px;"> Gathered experimental data by capturing images with cameras during testing. </span>
 - <span style="font-size: 14px;"> Preprocessed large image datasets using Pillow Python library to enhance image quality and consistency, including resizing, normalization, and augmentation techniques, ensuring a robust dataset for training the defect detection model. </span>
@@ -93,4 +87,14 @@ Python, SQL, Azure, Machine Learning, Deep Learning
 
 <p align="center">
   <img src="assets/images/Picture3.JPG" alt="Centered Image">
+</p>
+
+### Project 4 - Development of a AI-Driven Tax Filing with OCR and RAG.
+- <span style="font-size: 14px;"> Develop an AI-powered tax filing system for small businesses on Microsoft Azure AI. </span>
+- <span style="font-size: 14px;"> Implement a hybrid LLM solution with NLP and RAG to extract insights from structured and unstructured CRA documents. </span>
+- <span style="font-size: 14px;"> Integrate OCR for receipt extraction, automate ledger and tax filing, and apply NLP and RAG for document processing. </span>
+- <span style="font-size: 14px;"> Measure system performance, accuracy, and efficiency in automating tax filing tasks. </span>
+
+<p align="center">
+  <img src="assets/images/Tax Flow.JPG" alt="Centered Image">
 </p>
