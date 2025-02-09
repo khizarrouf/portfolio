@@ -27,27 +27,23 @@ Python, SQL, Azure, Machine Learning, Deep Learning
 - <span style="font-size: 14px;"> Deployed the model locally via FastAPI for inference. </span>
 
 <p align="center">
-  <img src="assets/images/Picture11.png" alt="Centered Image">
+  <img src="assets/images/Map.png" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="assets/images/Picture12.png" alt="Centered Image">
+  <img src="assets/images/Interest.png" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="assets/images/Picture13.png" alt="Centered Image">
+  <img src="assets/images/Credit.png" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="assets/images/Picture15.png" alt="Centered Image">
+  <img src="assets/images/Interest_bar.png" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="assets/images/Picture16.png" alt="Centered Image">
-</p>
-
-<p align="center">
-  <img src="assets/images/Picture14.png" alt="Centered Image">
+  <img src="assets/images/AUC.png" alt="Centered Image">
 </p>
 
 
