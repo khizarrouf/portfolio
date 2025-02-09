@@ -48,7 +48,7 @@ Python, SQL, Azure, Machine Learning, Deep Learning
 
 
 ### Project 2 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties.
-[Related paper]([https://github.com/khizarrouf/End_to_End_Mortgage_Default_Project](https://www.researchgate.net/publication/388836035_Predicting_effective_properties_of_unidirectional_non-_crimp_fabric_composites_with_manufacturing-induced_defects_using_multiscale_ANN_models))
+[Related paper](https://www.researchgate.net/publication/388836035_Predicting_effective_properties_of_unidirectional_non-_crimp_fabric_composites_with_manufacturing-induced_defects_using_multiscale_ANN_models)
 - <span style="font-size: 14px;"> Developed a supervised regression model to predict the effective properties of a material based on its microstructure and constituent properties. </span>
 - <span style="font-size: 14px;"> Automated dataset generation in simulation software by developing and implementing Python scripts. </span>
 - <span style="font-size: 14px;"> Identified and removed outliers using the standard deviation method and normalized the data to scale features for better model performance.  </span>
