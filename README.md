@@ -85,7 +85,7 @@ Python, SQL, Azure, Machine Learning, Deep Learning
   <img src="assets/images/Labelled.JPG" alt="Centered Image">
 </p>
 
-### Project 4 - Development of a AI-Driven Tax Filing with OCR and RAG.
+### Project 4 - Development of an AI-Driven Tax Filing with OCR and RAG.
 - <span style="font-size: 14px;"> Develop an AI-powered tax filing system for small businesses on Microsoft Azure AI. </span>
 - <span style="font-size: 14px;"> Implement a hybrid LLM solution with NLP and RAG to extract insights from structured and unstructured CRA documents. </span>
 - <span style="font-size: 14px;"> Integrate OCR for receipt extraction, automate ledger and tax filing, and apply NLP and RAG for document processing. </span>
