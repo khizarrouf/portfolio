@@ -55,15 +55,15 @@ Python, SQL, Azure, Machine Learning, Deep Learning
 - <span style="font-size: 14px;"> The trained model significantly reduced the inference time compared to the conventional modeling approach, while maintaining the same level of accuracy. </span>
 
 <p align="center">
-  <img src="assets/images/Picture2.JPG" alt="Centered Image">
+  <img src="assets/images/Flow.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="assets/images/Figure 20.JPG" alt="Centered Image">
+  <img src="assets/images/Histogram.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="assets/images/Figure 19.JPG" alt="Centered Image">
+  <img src="assets/images/Loss.JPG" alt="Centered Image">
 </p>
 
 ### Project 3 - Development of a Convolutional Neural Network for Defect Detection.
@@ -74,15 +74,15 @@ Python, SQL, Azure, Machine Learning, Deep Learning
 - <span style="font-size: 14px;"> Trained a CNN model using the U-Net architecture, optimizing it for material defect detection. </span>
 
 <p align="center">
-  <img src="assets/images/Figure21.JPG" alt="Centered Image">
+  <img src="assets/images/Flow_CNN.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="assets/images/Figure22.JPG" alt="Centered Image">
+  <img src="assets/images/Greyscale.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="assets/images/Picture3.JPG" alt="Centered Image">
+  <img src="assets/images/Labelled.JPG" alt="Centered Image">
 </p>
 
 ### Project 4 - Development of a AI-Driven Tax Filing with OCR and RAG.
