@@ -99,12 +99,12 @@ Python, SQL, Azure, Machine Learning, Deep Learning
 # Other projects - Physics-based Modelling
 During my graduate studies, I developed several models and frameworks for physics-based modeling, including invariant-based methods, variational methods, finite element methods (FEM), and empirical approaches. I implemented these models in commercial software using Python scripts and Fortran subroutines. Much of this work has been presented at top conferences and published in leading journals. Some of my publications related to these physics-based models can be found here:
 ### 1. Development and implementation of an elasto-plastic, failure and fracture model for composite materials.
-<span style="font-size: 12px;">[Access paper here](https://www.researchgate.net/publication/388834612_Development_and_Implementation_of_an_Elasto-plastic_Failure_and_Fracture_Model_for_Composite_Materials)</span>
+<span style="font-size: 12px;">[Paper available here](https://www.researchgate.net/publication/388834612_Development_and_Implementation_of_an_Elasto-plastic_Failure_and_Fracture_Model_for_Composite_Materials)</span>
 ### 2. Experimentally verified dual-scale modelling framework for predicting the strain rate-dependent nonlinear anisotropic deformation response of unidirectional non-crimp fabric composites.
-<span style="font-size: 12px;">[Access paper here](https://www.sciencedirect.com/science/article/abs/pii/S0263822322011163)</span>
+<span style="font-size: 12px;">[Paper available here](https://www.sciencedirect.com/science/article/abs/pii/S0263822322011163)</span>
 ### 3. A multiscale framework for predicting the mechanical properties of unidirectional non-crimp fabric composites with manufacturing induced defects.
-<span style="font-size: 12px;">[Access paper here](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=PTqrXjYAAAAJ&sortby=pubdate&citation_for_view=PTqrXjYAAAAJ:8k81kl-MbHgC)</span>
+<span style="font-size: 12px;">[Paper available here](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=PTqrXjYAAAAJ&sortby=pubdate&citation_for_view=PTqrXjYAAAAJ:8k81kl-MbHgC)</span>
 ### 4. Multiscale structural analysis of textile composites using mechanics of structure genome.
-<span style="font-size: 12px;">[Access paper here](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=PTqrXjYAAAAJ&sortby=pubdate&citation_for_view=PTqrXjYAAAAJ:IjCSPb-OGe4C)</span>
+<span style="font-size: 12px;">[Paper available here](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=PTqrXjYAAAAJ&sortby=pubdate&citation_for_view=PTqrXjYAAAAJ:IjCSPb-OGe4C)</span>
 ### 5. Two-step homogenization of textile composites using mechanics of structure genome.
-<span style="font-size: 12px;">[Access paper here](https://www.sciencedirect.com/science/article/abs/pii/S0263822316329233)</span>
+<span style="font-size: 12px;">[Paper available here](https://www.sciencedirect.com/science/article/abs/pii/S0263822316329233)</span>
