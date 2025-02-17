@@ -47,7 +47,7 @@ Machine Learning, Deep Learning, Python, SQL, Azure
 </p>
 
 <p align="center">
-  <img src="assets/images/GFI.png" alt="Centered Image">
+  <img src="assets/images/GFI.JPG" alt="Centered Image">
 </p>
 
 ### Project 2 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties.
