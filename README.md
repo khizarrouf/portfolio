@@ -43,7 +43,7 @@ Machine Learning, Deep Learning, Python, SQL, Azure
 </p>
 
 <p align="center">
-  <img src="assets/images/AUC.png" alt="Centered Image">
+  <img src="assets/images/AUC.JPG" alt="Centered Image">
 </p>
 
 <p align="center">
