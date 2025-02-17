@@ -1,7 +1,7 @@
 # Research Fellow 
 
 ### Technical Skills  
-Python, SQL, Azure, Machine Learning, Deep Learning
+Machine Learning, Deep Learning, Python, SQL, Azure 
 
 ### Education  
 - **Ph.D. Mechanical and Mechatronics Engineering** - September, 2023  
@@ -95,6 +95,12 @@ Python, SQL, Azure, Machine Learning, Deep Learning
 <p align="center">
   <img src="assets/images/Tax Flow.JPG" alt="Centered Image">
 </p>
+
+### Project 5 - Analyzing Stock Data on Databricks Using PySpark and Spark SQL.
+[Details and code available here](https://github.com/khizarrouf/Stock_Data_Analysis_on_Databricks)
+- <span style="font-size: 14px;"> Analyzed stock data on Databricks using simple and advanced SQL queries for CRUD operations, joins, aggregations, and UDFs. </span>
+- <span style="font-size: 14px;"> Utilized PySpark for efficient processing and analysis of large datasets. </span>
+- <span style="font-size: 14px;"> Generated insights through advanced queries for data exploration and reporting. </span>
 
 # Other projects - Physics-based Modelling
 During my graduate studies, I developed several models and frameworks for physics-based modeling, including invariant-based methods, variational methods, finite element methods (FEM), and empirical approaches. I implemented these models in commercial software using Python scripts and Fortran subroutines. Much of this work has been presented at top conferences and published in leading journals. Some of my publications related to these physics-based models can be found here:
