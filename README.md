@@ -46,6 +46,9 @@ Machine Learning, Deep Learning, Python, SQL, Azure
   <img src="assets/images/AUC.png" alt="Centered Image">
 </p>
 
+<p align="center">
+  <img src="assets/images/GFI.png" alt="Centered Image">
+</p>
 
 ### Project 2 - Predict Effective Properties of Materials Based on Microstructure and Constituent Properties.
 [Related paper](https://www.researchgate.net/publication/388836035_Predicting_effective_properties_of_unidirectional_non-_crimp_fabric_composites_with_manufacturing-induced_defects_using_multiscale_ANN_models)
